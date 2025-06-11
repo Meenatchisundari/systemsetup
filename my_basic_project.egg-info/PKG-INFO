@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: my_basic_project
+Version: 0.1.0
+Summary: A brief description of my basic project
+Author: Meena
+Author-email: Meena <meenatchisundarimuthirulappan@gmail.com>
+Project-URL: Repository, https://github.com/Meenatchisundari/systemsetup.git
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.25
+Requires-Dist: numpy>=1.20
+Dynamic: author

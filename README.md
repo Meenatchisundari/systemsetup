@@ -3,19 +3,19 @@ Project: My Basic Project
 
 Description:
 ------------
-This project is a basic Python application designed to [briefly describe what your project does].  
-It uses several Python packages and can be installed easily in a virtual environment.
+
+A simple Python project structure with essential setup files for installation and execution.
 
 Directory Structure:
 --------------------
-pythoncckn/
-│
+pythoncckn
+```bash
 ├── main.py                # Main script (rename appropriately)
 ├── requirements.txt       # Dependencies to install
 ├── pyproject.toml         # Project configuration (if used)
 ├── setup.py               # Setup script (if used instead of pyproject.toml)
 └── README.txt             # Project description and instructions
-
+```
 Setup Instructions:
 -------------------
 1. Open Command Prompt.
